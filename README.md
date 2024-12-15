@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis-Power-BI-Project
+# Bank-Loan-Analytics-Power-BI-Project
 
 ## Project Overview
 
