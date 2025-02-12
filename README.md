@@ -37,4 +37,4 @@ The project aims to leverage Power BI to analyse and visualize bank loan data ef
 
 ## Conclusion
 
-The Bank Loan Data Analytics Using Power BI project will turn complex loan data into clear, actionable insights. By using Power BI's interactive dashboards, banks can better understand loan trends, identify risks and improve decision-making. This project helps banks monitor loan performance and optimize their loan offerings. 
+The Bank Loan Data Analytics Using Power BI will turn complex loan data into clear, actionable insights. By using Power BI's interactive dashboards, banks can better understand loan trends, identify risks and improve decision-making. This project helps banks monitor loan performance and optimize their loan offerings. 
